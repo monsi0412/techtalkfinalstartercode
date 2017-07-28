@@ -1,0 +1,19 @@
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 50px;
+    text-align: center;
+}
+p{
+    font-family: 'Arima Madurai', cursive;
+    font-size: 20px;
+}
+img{
+    height:100px;
+}
+
+a:link{
+    color:#4c90ff;
+}
+#surpriseTitle{
+    color: white;
+}
